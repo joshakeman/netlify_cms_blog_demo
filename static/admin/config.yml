@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: joshakeman/netlify_cms_blog_demo
 
 media_folder: content/assets
 public_folder: ../assets
